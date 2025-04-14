@@ -38,6 +38,7 @@ Through this project, I demonstrated my ability to handle complex data queries a
 
 - **ad-hoc-requests.pdf**: Document containing the 10 ad hoc business requests.
 - **SQL Queries**: Folder containing SQL scripts used to extract data.
+- **SQL Queries Output Screenshots**- Folder Contains Screenshots of SQL Queries Output
 - **Power BI Visualizations**: Folder containing Power BI files with data visualizations.
 - **Presentation**: PowerPoint file showcasing insights and recommendations.
 
