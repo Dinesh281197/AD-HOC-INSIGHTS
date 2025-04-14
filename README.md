@@ -6,7 +6,7 @@
 
 ## Challenge
 
-AtliQ Hardwares identified a gap in their ability to make quick, smart data-informed decisions. To bridge this gap, they aimed to expand their data analytics team by hiring junior data analysts proficient in both technical and soft skills. Tony Sharma, their Data Analytics Director, devised a SQL challenge to evaluate these skills.
+AtliQ Hardwares identified a gap in their ability to make quick, smart data-informed decisions. To bridge this gap, they aimed to expand their data analytics team by hiring junior data analysts proficient in both technical and soft skills. Their Data Analytics Director, Tony Sharma, devised an SQL challenge to evaluate these skills.
 
 ## My Task
 
@@ -44,7 +44,7 @@ Through this project, I demonstrated my ability to handle complex data queries a
 ## How to Use
 
 1. **SQL Queries**:
-   - Navigate to the `SQL Queries` folder.
+   - Navigate to the `AD HOC SQL Queries` folder.
    - Run the SQL scripts in your MySQL environment to extract the necessary data.
    
 2. **Power BI Visualizations**:
