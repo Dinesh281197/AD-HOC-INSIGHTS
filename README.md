@@ -1,3 +1,8 @@
+
+As part of the Codebasics Resume Challenge #4, I created this Data Analytics Project
+
+Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/7)
+
 # AD-HOC-INSIGHTS
 
 ## Company: AtliQ Hardwares
