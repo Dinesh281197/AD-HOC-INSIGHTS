@@ -16,7 +16,7 @@ Link to the [Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiNGZj
 
 ## Challenge
 
-AtliQ Hardwares identified a gap in their ability to make quick, smart data-informed decisions. To bridge this gap, they aimed to expand their data analytics team by hiring junior data analysts proficient in both technical and soft skills. Their Data Analytics Director, Tony Sharma, devised an SQL challenge to evaluate these skills.
+AtliQ Hardwares identified a gap in their ability to make quick, smart, data-informed decisions. To bridge this gap, they aimed to expand their data analytics team by hiring junior data analysts proficient in both technical and soft skills. Their Data Analytics Director, Tony Sharma, devised an SQL challenge to evaluate these skills.
 
 ## My Task
 
@@ -47,9 +47,8 @@ Through this project, I demonstrated my ability to handle complex data queries a
 ## Files in this Repository
 
 - **ad-hoc-requests.pdf**: Document containing the 10 ad hoc business requests.
-- **SQL Queries**: Folder containing SQL scripts used to extract data.
-- **SQL Queries Output Screenshots**- Folder Contains Screenshots of SQL Queries Output
-- **Power BI Visualizations**: Folder containing Power BI files with data visualizations.
+- **SQL Queries**: A Folder containing SQL scripts used to extract data.
+- **Power BI Visualizations**: Contains a Visualization of all 10 Request Outputs
 - **Presentation**: PowerPoint file showcasing insights and recommendations.
 
 ## How to Use
