@@ -1,9 +1,9 @@
 
 As part of the Codebasics Resume Challenge #4, I created this Data Analytics Project
 
-Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/7)
-Link to the [Presentation Video](https://youtu.be/sIW0LOnywOw)
-Link to the [Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiNGZjYWNlYjItNGIwMi00ZTViLTg3MzQtZDI3NzNkMjI0N2JlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+-Link to the [Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/7)
+-Link to the [Presentation Video](https://youtu.be/sIW0LOnywOw)
+-Link to the [Power BI Visualization](https://app.powerbi.com/view?r=eyJrIjoiNGZjYWNlYjItNGIwMi00ZTViLTg3MzQtZDI3NzNkMjI0N2JlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 # AD-HOC-INSIGHTS
